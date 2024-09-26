@@ -1,4 +1,4 @@
-#  orange-cloud
+# orange-dependencies-parent 
 
 ## 在线演示
 - Orange 官网: [http://hengzq.cn](http://hengzq.cn)
@@ -12,3 +12,10 @@
 - 前端源码下载【Gitee】: [https://gitee.com/hengzq/orange-cloud](https://gitee.com/hengzq/orange-cloud)
 
 > 注：前端项目设计灵活，能够同时兼容后端的单体架构和微服务架构
+
+
+##  orange-dependencies-parent 仓库地址:
+- GitHub: [https://github.com/hengzq/orange-dependencies-parent](https://github.com/hengzq/orange-dependencies-parent)
+- Gitee: [https://gitee.com/hengzq/orange-dependencies-parent](https://gitee.com/hengzq/orange-dependencies-parent)
+
+

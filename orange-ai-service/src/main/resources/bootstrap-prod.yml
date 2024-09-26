@@ -1,0 +1,11 @@
+spring:
+  cloud:
+    nacos:
+      config:
+        server-addr: nacos-server:8848
+        namespace: "0a5bbb17-9711-4d53-9c8c-70fcf455b3e3"
+        file-extension: yaml
+      discovery:
+        server-addr: nacos-server:8848
+        namespace: "0a5bbb17-9711-4d53-9c8c-70fcf455b3e3"
+

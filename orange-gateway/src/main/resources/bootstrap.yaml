@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: ORANGE-GATEWAY-V1
+  profiles:
+    active: dev
+  cloud:
+    nacos:
+      config:
+        shared-configs:
+          - data-id: ORANGE-COMMON.yaml  # 通用基础配置
+            refresh: true
