@@ -19,10 +19,6 @@
         orange-gateway
     </description>
 
-    <properties>
-        <revision>0.0.1-SNAPSHOT</revision>
-    </properties>
-
     <dependencies>
         <!-- 负载均衡 依赖-->
         <dependency>
